@@ -1,0 +1,23 @@
+/mt logout
+/ub giveprP $$ to $$
+/ub givep Food to Bare
+/ub givep Foo to Bear
+/ub givep Foo to Bar
+/ub closestportal
+/ub ig Garbage.utl to Garbage Barrel
+/ub fellow create S
+/ub prepclick yes 999
+/ub swearallegiancep Aqua
+/mt dropp Note
+/ub autosalvage
+/ub propertydump
+/vwt capture Secondary
+/vwt apply Secondary
+/vwt capture $$
+/vwt apply $$
+/vt nav load egg-orchard-west-pit
+/ub textures 4 0 4 0 1 1
+/ub followp $$
+/ub equip create $$
+/ub equip load $$
+/vt tapjump
