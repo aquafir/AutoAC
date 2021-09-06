@@ -5,6 +5,8 @@ Menu, Tray, Icon, black.ico, , 1
 
 ;RunAsAdmin()   ;Added if ever needed to try to escalate to admin
 Initialize()
++F1::BorderlessAll()
++F2::MaximizeAll()
 Return
 
 
